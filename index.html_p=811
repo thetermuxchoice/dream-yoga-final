@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+<link rel="shortcut icon" href="https://baseone.uk/wp-content/uploads/2022/10/b1-app-icon.png" />
+<meta name="facebook-domain-verification" content="2qaxw6i28i8ctk5lzmjgdvn8qg8o9o" />
+
+<title>Our TOP tips for Power BI report design. | BaseOne.</title>
+<meta name="description" content="We take you through our TOP tips for Power BI report design, including best places to gather resources and UIUX design." />
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+<link rel="canonical" href="https://baseone.uk/top-tips-for-power-bi-report-design/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Our TOP tips for Power BI report design. | BaseOne." />
+<meta property="og:description" content="We take you through our TOP tips for Power BI report design, including best places to gather resources and UIUX design." />
+<meta property="og:url" content="https://baseone.uk/top-tips-for-power-bi-report-design/" />
+<meta property="og:site_name" content="BaseOne." />
+<meta property="article:tag" content="Business Intelligence" />
+<meta property="article:tag" content="design" />
+<meta property="article:tag" content="power bi" />
+<meta property="article:tag" content="resources" />
+<meta property="article:tag" content="Tips &amp; Tricks" />
+<meta property="article:tag" content="UIUX" />
+<meta property="article:section" content="Design &amp; Digital" />
+<meta property="og:updated_time" content="2022-11-02T13:28:29+03:00" />
+<meta property="og:image" content="https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design..png" />
+<meta property="og:image:secure_url" content="https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design..png" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<meta property="og:image:alt" content="TOP tips for Power BI report design" />
+<meta property="og:image:type" content="image/png" />
+<meta property="article:published_time" content="2022-08-29T17:52:26+03:00" />
+<meta property="article:modified_time" content="2022-11-02T13:28:29+03:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Our TOP tips for Power BI report design. | BaseOne." />
+<meta name="twitter:description" content="We take you through our TOP tips for Power BI report design, including best places to gather resources and UIUX design." />
+<meta name="twitter:image" content="https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design..png" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Adm" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://baseone.uk/#person","name":"Base1"},{"@type":"WebSite","@id":"https://baseone.uk/#website","url":"https://baseone.uk","name":"Base1","publisher":{"@id":"https://baseone.uk/#person"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design..png","url":"https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design..png","width":"1280","height":"720","caption":"TOP tips for Power BI report design","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://baseone.uk/top-tips-for-power-bi-report-design/#webpage","url":"https://baseone.uk/top-tips-for-power-bi-report-design/","name":"Our TOP tips for Power BI report design. | BaseOne.","datePublished":"2022-08-29T17:52:26+03:00","dateModified":"2022-11-02T13:28:29+03:00","isPartOf":{"@id":"https://baseone.uk/#website"},"primaryImageOfPage":{"@id":"https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design..png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://baseone.uk/author/admin-dev/","name":"Adm","url":"https://baseone.uk/author/admin-dev/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/a1db2860a365ca204ecf3c176f1b0a05?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/a1db2860a365ca204ecf3c176f1b0a05?s=96&amp;d=mm&amp;r=g","caption":"Adm","inLanguage":"en-US"},"sameAs":["https://baseone.uk"]},{"@type":"BlogPosting","headline":"Our TOP tips for Power BI report design. | BaseOne.","keywords":"power bi report design","datePublished":"2022-08-29T17:52:26+03:00","dateModified":"2022-11-02T13:28:29+03:00","articleSection":"Design &amp; Digital","author":{"@id":"https://baseone.uk/author/admin-dev/"},"publisher":{"@id":"https://baseone.uk/#person"},"description":"We take you through our TOP tips for Power BI report design, including best places to gather resources and UIUX design.","name":"Our TOP tips for Power BI report design. | BaseOne.","@id":"https://baseone.uk/top-tips-for-power-bi-report-design/#richSnippet","isPartOf":{"@id":"https://baseone.uk/top-tips-for-power-bi-report-design/#webpage"},"image":{"@id":"https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design..png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://baseone.uk/top-tips-for-power-bi-report-design/#webpage"}}]}</script>
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/baseone.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://baseone.uk/wp-includes/css/dist/block-library/style.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://baseone.uk/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://baseone.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='app-css-css' href='https://baseone.uk/wp-content/themes/base-one/build/app.css?ver=1.1.78' type='text/css' media='all' />
+<script type='text/javascript' src='https://baseone.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://baseone.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-142255414-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["baseone.uk"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-142255414-1", {"anonymize_ip":true});
+gtag("config", "G-YHGH2HBRTS");
+</script>
+
+<link rel="https://api.w.org/" href="https://baseone.uk/wp-json/" /><link rel="alternate" type="application/json" href="https://baseone.uk/wp-json/wp/v2/posts/811" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://baseone.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://baseone.uk/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1" />
+<link rel='shortlink' href='https://baseone.uk/?p=811' />
+<link rel="alternate" type="application/json+oembed" href="https://baseone.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaseone.uk%2Ftop-tips-for-power-bi-report-design%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://baseone.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaseone.uk%2Ftop-tips-for-power-bi-report-design%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.86.0" /> <script type="text/javascript">
+				(function(c,l,a,r,i,t,y){
+					c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;
+					t.src="https://www.clarity.ms/tag/"+i+"?ref=wordpress";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+				})(window, document, "clarity", "script", "7oq817eqzl");
+		</script>
+<style></style>
+<link rel="icon" href="https://baseone.uk/wp-content/uploads/2022/10/b1-app-icon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://baseone.uk/wp-content/uploads/2022/10/b1-app-icon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://baseone.uk/wp-content/uploads/2022/10/b1-app-icon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://baseone.uk/wp-content/uploads/2022/10/b1-app-icon-300x300.png" />
+</head>
+<body class="post-template-default single single-post postid-811 single-format-standard">
+<div class="loader" style="background: #448aff"></div>
+<div class="loader" style="background: #1565c0"></div>
+<div class="loader" style="background: #008979"></div>
+<div class="loader" style="background: #0e1218">
+
+<div id="loader-content">
+<svg width="60" viewBox="0 0 163 405" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M148.02 218.1V0H81.58L0 59.09l29 53.23L80.34 83.8v134.57a142.86 142.86 0 0 1 67.69-.29v.01Z" fill="#fff" /></svg>
+<div id="progress"></div>
+</div>
+</div>
+<div id="background"></div>
+<div id="cursor">
+<div class="circle"></div>
+<div class="icon"></div>
+</div>
+<header class="d-flex align-items-center justify-content-between">
+<a id="logo" href="https://baseone.uk">
+<img src="https://baseone.uk/wp-content/uploads/2022/08/logo.svg" alt="" />
+</a>
+<button id="hamburger" class="d-flex align-items-center">
+<div class="text">Menu</div>
+<div class="text">Close</div>
+<div class="icon">
+<span class="top"></span>
+<span class="middle"></span>
+<span class="bottom"></span>
+</div>
+</button>
+<nav class="scrollbar">
+<div class="nav-wrapper">
+<div class="column"><div id="menu-item-790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-790 second-menu"><a href="https://baseone.uk/services/" class="">Services</a><div class="icon"><span></span></div>
+<div class="column"> <div id="menu-item-1536" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1536"><a href="https://baseone.uk/services/data-analytics/" style="--color: rgb(68,138,255)" class="title-color">Data &#038; Analytics</a></div>
+<div id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1195"><a href="https://baseone.uk/services/project-controls/" style="--color: rgb(0,137,121)" class="title-color">Project Controls</a></div>
+</div>
+</div>
+<div id="menu-item-1632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632"><a href="https://baseone.uk/casestudies/" class="">Case Studies</a></div>
+<div id="menu-item-799" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-799"><a href="https://baseone.uk/latest-insights/" class="">Insights</a></div>
+<div id="menu-item-784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-784"><a href="https://baseone.uk/our-purpose/" class="">Our Purpose</a></div>
+<div id="menu-item-787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a href="https://baseone.uk/careers/" class="">Careers</a></div>
+<div id="menu-item-860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-860"><a href="https://baseone.uk/get-in-touch/" class="">Contact us</a></div>
+</div>
+</div>
+</nav> 
+</header>
+<div id="content">
+<div data-scroll-container>
+<main>
+<section class="news-entry">
+<div class="flare flare-sm" style="background: #e6a000; left: 80%; top: 10%"></div>
+<div class="flare flare-lg" style="background: #3770cf; left: -5%; top: 50%"></div>
+<div class="container-fluid">
+<div class="row g-custom-lg">
+<div class="col-12">
+<div class="editor text-lg">
+<h3>Our TOP tips for Power BI report design.</h3>
+</div>
+</div>
+<div class="col-12">
+<div class="date p-0">
+<div class="row text-lg text-light gx-5 gy-2 mb-custom-sm">
+<div class="col-auto">2022 Aug 29</div>
+<div class="col-auto">6 mins read</div>
+<div class="col-auto">by Matthew Spuffard</div>
+<div class="col-auto">Data &amp; Analytics</div>
+</div>
+<div class="row g-custom-xs mb-custom-sm">
+<div class="col-auto">
+<a class="tag" href="https://baseone.uk/tag/business-intelligence/">Business Intelligence</a>
+</div>
+<div class="col-auto">
+<a class="tag" href="https://baseone.uk/tag/design/">design</a>
+</div>
+<div class="col-auto">
+<a class="tag" href="https://baseone.uk/tag/power-bi/">power bi</a>
+</div>
+<div class="col-auto">
+ <a class="tag" href="https://baseone.uk/tag/resources/">resources</a>
+</div>
+<div class="col-auto">
+<a class="tag" href="https://baseone.uk/tag/tips-tricks/">Tips &amp; Tricks</a>
+</div>
+<div class="col-auto">
+<a class="tag" href="https://baseone.uk/tag/uiux/">UIUX</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12">
+<div class="editor">
+<p>
+<img class="media w-100 d-block" width='' height='' src="" alt=""> </p>
+<div class="row">
+<div class="col-3 d-none d-lg-block">
+<div id="btn-prev">
+<a href="https://baseone.uk/latest-insights/" class="btn-prev">Back <svg width="14" height="14" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.83 2.33H3.98l9.68 9.68-1.65 1.65-9.68-9.68v8.85H0V0h12.83v2.33Z" />
+</svg>
+</a>
+</div>
+</div>
+<div class="col-lg-9">
+<figure id="attachment_1214" aria-describedby="caption-attachment-1214" style="width: 1280px" class="wp-caption alignnone"><img decoding="async" loading="lazy" class="wp-image-1214 size-full" src="https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design..png" alt="TOP tips for Power BI report design." width="1280" height="720" srcset="https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design..png 1280w, https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design.-300x169.png 300w, https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design.-1024x576.png 1024w, https://baseone.uk/wp-content/uploads/2022/08/top-tips-for-power-bi-report-design.-768x432.png 768w" sizes="(max-width: 1280px) 100vw, 1280px" title="Our TOP tips for Power BI report design. 1"><figcaption id="caption-attachment-1214" class="wp-caption-text">TOP tips for Power BI report design.</figcaption></figure>
+<h2>Power BI report design</h2>
+<p class="reader-text-block__paragraph">People ask me what&#8217;s my process for Power BI report design?</p>
+<p class="reader-text-block__paragraph">And the answer is…</p>
+<p class="reader-text-block__paragraph">It depends!</p>
+<p class="reader-text-block__paragraph">It is slightly different depending on the project, and things like… is it client work, or for fun? What&#8217;s the objective? Are there prescriptive or predictive elements that require CTAs, or should it just be a descriptive report? Who&#8217;s the audience? Do they need narratives, or are they data explorers? Plus lots other factors that get flushed out in the discovery phase.</p>
+<p class="reader-text-block__paragraph">But on every project, there are things I do to make reports (or any UI design) look as good as possible.</p>
+<p class="reader-text-block__paragraph">So, I&#8217;ve created quick list of things I do and the places I go, to work through my design process.</p>
+<h2 class="reader-text-block__heading1">Get Inspired</h2>
+<p class="reader-text-block__paragraph">My process could be grouped into phases that look something like: Discovery &amp; Inspiration, Colour &amp; Content, Layout &amp; Design. Although they look like stepped phases, I&#8217;ll revisit each one as and when required if something doesn&#8217;t work or I need more content.</p>
+<p class="reader-text-block__paragraph">All good design (including Power BI report design) starts with inspiration. Regardless of what I think I know, I always get a better understanding of the outcome after I go through some kind of discovery session to gather the content I need to deliver quickly &#8211; and that&#8217;s the key here. Knowing what the design objectives are, help you deliver faster, better-looking work.</p>
+<h3 class="reader-text-block__heading2">Inspiration</h3>
+<p class="reader-text-block__paragraph">If working for a brand, then the starting point is the companies brand guide. If that is unavailable, then I&#8217;ll take apart the website and pick out what I need. I&#8217;ll then go to Google and look for UI designs of reports, or website I like. But some of the best stuff I&#8217;ve found for report design inspiration are on Behance or Dribbble.</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-large wp-image-1217" src="https://baseone.uk/wp-content/uploads/2022/08/behance-1024x496.png" alt="behance" width="1024" height="496" srcset="https://baseone.uk/wp-content/uploads/2022/08/behance-1024x496.png 1024w, https://baseone.uk/wp-content/uploads/2022/08/behance-300x145.png 300w, https://baseone.uk/wp-content/uploads/2022/08/behance-768x372.png 768w, https://baseone.uk/wp-content/uploads/2022/08/behance-1536x744.png 1536w, https://baseone.uk/wp-content/uploads/2022/08/behance-2048x992.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="Our TOP tips for Power BI report design. 2"></p>
+<p class="reader-text-block__paragraph"><a href="https://www.behance.net/" rel="noopener">https://www.behance.net/</a></p>
+<p><img decoding="async" loading="lazy" class="alignnone size-large wp-image-1219" src="https://baseone.uk/wp-content/uploads/2022/08/dribbble-1024x496.png" alt="dribbble" width="1024" height="496" srcset="https://baseone.uk/wp-content/uploads/2022/08/dribbble-1024x496.png 1024w, https://baseone.uk/wp-content/uploads/2022/08/dribbble-300x145.png 300w, https://baseone.uk/wp-content/uploads/2022/08/dribbble-768x372.png 768w, https://baseone.uk/wp-content/uploads/2022/08/dribbble-1536x743.png 1536w, https://baseone.uk/wp-content/uploads/2022/08/dribbble-2048x991.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="Our TOP tips for Power BI report design. 3"></p>
+<p class="reader-text-block__paragraph"><a href="https://dribbble.com/" rel="noopener">https://dribbble.com/</a></p>
+<p class="reader-text-block__paragraph">I generally start by creating a folder which acts as a scrap book, and I fill it with things I like that relate to the project.</p>
+<h3 class="reader-text-block__heading2">Colour</h3>
+<p class="reader-text-block__paragraph">Colour is such an important thing and is something I need to figure out before I start any creative work. You need to create your palette, and my favourite place to do this is Coolers. If you have an image (perhaps from step 1) you can upload it to coolers.co and generate a theme. From there you can export it into several formats, including PDF and code ready for your JSON theme.</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-large wp-image-1218" src="https://baseone.uk/wp-content/uploads/2022/08/coolers-1024x525.png" alt="coolers" width="1024" height="525" srcset="https://baseone.uk/wp-content/uploads/2022/08/coolers-1024x525.png 1024w, https://baseone.uk/wp-content/uploads/2022/08/coolers-300x154.png 300w, https://baseone.uk/wp-content/uploads/2022/08/coolers-768x394.png 768w, https://baseone.uk/wp-content/uploads/2022/08/coolers-1536x787.png 1536w, https://baseone.uk/wp-content/uploads/2022/08/coolers-2048x1050.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="Our TOP tips for Power BI report design. 4"></p>
+<p class="reader-text-block__paragraph"><a href="https://coolors.co/" rel="noopener">https://coolors.co/</a></p>
+<p class="reader-text-block__paragraph"><em>A colour theme created for a Nike Report</em></p>
+<h3 class="reader-text-block__heading2">Stock Images</h3>
+<p class="reader-text-block__paragraph">Quite often I&#8217;ll need images. It could be for impact, or subtle background layers made from patterns or textures. In my Star Wars report I got images of stary skies and nebulas.</p>
+<p class="reader-text-block__paragraph">Although I get imagery from many sources, one of the best free places out there is Unsplash.</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-large wp-image-1223" src="https://baseone.uk/wp-content/uploads/2022/08/unsplash-1024x497.png" alt="unsplash" width="1024" height="497" srcset="https://baseone.uk/wp-content/uploads/2022/08/unsplash-1024x497.png 1024w, https://baseone.uk/wp-content/uploads/2022/08/unsplash-300x146.png 300w, https://baseone.uk/wp-content/uploads/2022/08/unsplash-768x372.png 768w, https://baseone.uk/wp-content/uploads/2022/08/unsplash-1536x745.png 1536w, https://baseone.uk/wp-content/uploads/2022/08/unsplash-2048x993.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="Our TOP tips for Power BI report design. 5"></p>
+<p class="reader-text-block__paragraph"><a href="https://unsplash.com/" rel="noopener">https://unsplash.com/</a></p>
+<h3 class="reader-text-block__heading2">Stock Graphics</h3>
+<p class="reader-text-block__paragraph">As with photos, I&#8217;ll sometimes use stock graphics, icon packs, video, fonts, web templates or more. In the past, I used as many free sites as I could find, but soon realised that you get what you pay for.</p>
+<p class="reader-text-block__paragraph">So now, I have an Envato account where I&#8217;ll get a whole host of design elements to boost my design speed and quality. The monthly fee is well worth the quality you get, and the time it saves.</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-large wp-image-1220" src="https://baseone.uk/wp-content/uploads/2022/08/envato-1024x608.png" alt="envato" width="1024" height="608" srcset="https://baseone.uk/wp-content/uploads/2022/08/envato-1024x608.png 1024w, https://baseone.uk/wp-content/uploads/2022/08/envato-300x178.png 300w, https://baseone.uk/wp-content/uploads/2022/08/envato-768x456.png 768w, https://baseone.uk/wp-content/uploads/2022/08/envato-1536x913.png 1536w, https://baseone.uk/wp-content/uploads/2022/08/envato-2048x1217.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="Our TOP tips for Power BI report design. 6"></p>
+<p class="reader-text-block__paragraph"><a href="https://elements.envato.com/" rel="noopener">https://elements.envato.com/</a></p>
+<h3 class="reader-text-block__heading2">Icons</h3>
+<p class="reader-text-block__paragraph">Taking time to pick out and style custom icons really makes the difference. It reduces the need for text, makes more use of whitespace, improves usability, and helps the user navigate quicker.</p>
+<p class="reader-text-block__paragraph">Although I do like icon packs from Envato (as they all have the same style), it&#8217;s quite rare you&#8217;ll get a pack that has everything you need. In which case I&#8217;ll save time and go to The Noun Project.</p>
+<p class="reader-text-block__paragraph">There you&#8217;ll find an icon for everything you can possibly think of.</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-large wp-image-1222" src="https://baseone.uk/wp-content/uploads/2022/08/noun-1024x570.png" alt="noun" width="1024" height="570" srcset="https://baseone.uk/wp-content/uploads/2022/08/noun-1024x570.png 1024w, https://baseone.uk/wp-content/uploads/2022/08/noun-300x167.png 300w, https://baseone.uk/wp-content/uploads/2022/08/noun-768x428.png 768w, https://baseone.uk/wp-content/uploads/2022/08/noun-1536x856.png 1536w, https://baseone.uk/wp-content/uploads/2022/08/noun-2048x1141.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="Our TOP tips for Power BI report design. 7"></p>
+<p class="reader-text-block__paragraph"><a href="https://thenounproject.com/" rel="noopener">https://thenounproject.com/</a></p>
+<h2 class="reader-text-block__heading1">Design Your Report</h2>
+<p class="reader-text-block__paragraph">Now you got a good set of resources, it&#8217;s time to get inside photoshop and start creating &#8211; I absolutely love this part.</p>
+<p class="reader-text-block__paragraph">I&#8217;ll open photoshop, create a 1920&#215;1080 (HD widescreen) canvas and start making layouts, starting with a cover, interface and then the detail.</p>
+<p class="reader-text-block__paragraph">If you don&#8217;t have photoshop, then you can use a free design app like Gimp <a href="https://www.gimp.org/" rel="noopener">https://www.gimp.org/</a>, or even simpler &#8211; use PowerPoint.</p>
+<h3 class="reader-text-block__heading2">Always use a grid!</h3>
+<p class="reader-text-block__paragraph">Take some tips from website designers and use a grid system!</p>
+<p class="reader-text-block__paragraph">I generally use two grids to layout my reports horizontal and vertical space with guides in Photoshop.</p>
+<ul>
+<li>Responsive Grid Design &#8211; take note from website UI design, they’ve spent 30+ years perfecting this art, and it works. Get a grid system image that works for your project (6, 12, 24 columns I find are best) and start to work with it.</li>
+</ul>
+<p class="reader-text-block__paragraph"><a href="https://medium.muz.li/responsive-grid-design-ultimate-guide-7aa41ca7892" rel="noopener">https://medium.muz.li/responsive-grid-design-ultimate-guide-7aa41ca7892</a></p>
+<ul>
+<li> Golden ratio (1.618) &#8211; the same math that makes nature and Greek architecture look good, can help your report design also. It&#8217;s used everywhere from book sizes to tv screens, architecture, shells, broccoli, and galaxies. Yep, really!</li>
+</ul>
+<p class="reader-text-block__paragraph">Although I use this less, it is worth knowing about it.</p>
+<p class="reader-text-block__paragraph"><a href="https://uxdesign.cc/design-system-based-on-the-golden-ratio-ui-%C9%B8-e45eb98655cb" rel="noopener">https://uxdesign.cc/design-system-based-on-the-golden-ratio-ui-%C9%B8-e45eb98655cb</a></p>
+<p class="reader-text-block__paragraph">Here&#8217;s an example of a grid layout in Photoshop using 12 columns.</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-large wp-image-1216" src="https://baseone.uk/wp-content/uploads/2022/08/12grid-1024x576.png" alt="12grid" width="1024" height="576" srcset="https://baseone.uk/wp-content/uploads/2022/08/12grid-1024x576.png 1024w, https://baseone.uk/wp-content/uploads/2022/08/12grid-300x169.png 300w, https://baseone.uk/wp-content/uploads/2022/08/12grid-768x432.png 768w, https://baseone.uk/wp-content/uploads/2022/08/12grid-1536x864.png 1536w, https://baseone.uk/wp-content/uploads/2022/08/12grid.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" title="Our TOP tips for Power BI report design. 8"></p>
+<p class="reader-text-block__paragraph">When laying out my grid, I&#8217;ll think about leaving whitespace between elements and nice margins, gutters etc, and finally space for the navigation.</p>
+<p class="reader-text-block__paragraph">Here a look at a layout I&#8217;ve been working for a report using the same grid as above and the colours from the coolers example above.</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-large wp-image-1221" src="https://baseone.uk/wp-content/uploads/2022/08/nikelayout-1024x580.png" alt="nikelayout" width="1024" height="580" srcset="https://baseone.uk/wp-content/uploads/2022/08/nikelayout-1024x580.png 1024w, https://baseone.uk/wp-content/uploads/2022/08/nikelayout-300x170.png 300w, https://baseone.uk/wp-content/uploads/2022/08/nikelayout-768x435.png 768w, https://baseone.uk/wp-content/uploads/2022/08/nikelayout-1536x871.png 1536w, https://baseone.uk/wp-content/uploads/2022/08/nikelayout.png 1925w" sizes="(max-width: 1024px) 100vw, 1024px" title="Our TOP tips for Power BI report design. 9"></p>
+<h3 class="reader-text-block__heading2">Next up. Development</h3>
+<p class="reader-text-block__paragraph">That&#8217;s it, once you have all this set up, you&#8217;ll smashing through your Power BI report design.</p>
+<p class="reader-text-block__paragraph">After this, practise makes perfect, so to continue your learning, read more about UI/UX design and you&#8217;ll be on your way to better looking reports.</p>
+<p class="reader-text-block__paragraph">If you think my list is missing anything, please reach out, as I&#8217;m always looking for new tricks.</p>
+<p class="reader-text-block__paragraph">Or reach out to connect with me.</p>
+<p>&nbsp;</p>
+<p>by Matthew Spuffard &#8211; <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4825293c3c082a293b2d27262d663d23">[email&#160;protected]</a></p>
+<p>&nbsp;</p>
+<div class="row align-items-center g-2">
+<div class="col-auto">
+<h4 class="me-2">Share:</h4>
+</div>
+<div class="col-auto">
+<a class="social-button" href="https://twitter.com/share?text=Our TOP tips for Power BI report design.&url=https://baseone.uk/top-tips-for-power-bi-report-design/">
+<img src="https://baseone.uk/wp-content/themes/base-one/build/assets/images/icon-social1.svg" alt="" />
+</a>
+</div>
+<div class="col-auto">
+<a class="social-button" href="https://www.facebook.com/sharer/sharer.php?u=https://baseone.uk/top-tips-for-power-bi-report-design/">
+<img src="https://baseone.uk/wp-content/themes/base-one/build/assets/images/icon-social2.svg" alt="" />
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="section-spacer"></div>
+<section>
+<div class="container-fluid">
+<div class="row g-custom-lg">
+<div class="col-12">
+<div class="d-md-flex justify-content-between align-items-center editor">
+<h3 class="m-md-0">Latest insights.</h3>
+<a class="button sm frame m-md-0" href="https://baseone.uk/latest-insights/" target="_self">
+<span class="text">View all news</span>
+<span class="icon"></span>
+</a> </div>
+</div>
+<div class="col-12">
+<div class="row gx-custom-lg gy-custom-sm news-entry">
+<div class="col-md-6 order-sm-last">
+<div class="image">
+<div class="image-wrapper">
+<a href="https://baseone.uk/how-to-design-a-logo/" target="_self">
+<img class="media w-100 d-block" src="https://baseone.uk/wp-content/uploads/2022/11/article-cover-design.png" alt="How to design a Logo"> </a>
+</div>
+</div>
+</div>
+<div class="col-md-6 d-flex flex-column justify-content-between">
+<div class="editor">
+<h4><a href="https://baseone.uk/how-to-design-a-logo/" target="_self">How to design a Logo: The thought that goes into superior brand design</a></h4>
+<p>In this article we look at the process behind the design of our new logo and what makes a good logo, using ARMM and propositional density.</p>
+</div>
+<div class="date">2022 Nov 1</div>
+</div>
+</div>
+</div>
+<div class="col-12">
+<div class="row gx-custom-lg gy-custom-sm news-entry">
+<div class="col-md-6 order-sm-last">
+<div class="image">
+<div class="image-wrapper">
+<a href="https://baseone.uk/visuals-from-the-power-bi-marketplace/" target="_self">
+<img class="media w-100 d-block" src="https://baseone.uk/wp-content/uploads/2022/09/supercharge-your-dashboard-design-with-my-favourite-visuals-from-the-power-bi-marketplace..png" alt="visuals from the Power BI Marketplace">  </a>
+</div>
+</div>
+</div>
+<div class="col-md-6 d-flex flex-column justify-content-between">
+<div class="editor">
+<h4><a href="https://baseone.uk/visuals-from-the-power-bi-marketplace/" target="_self">Supercharge your report design with our favourite visuals from the Power BI Marketplace.</a></h4>
+<p>Take a look at our favourite visuals form the Power BI marketplace, including HTML, mapping and Gantt charting solutions for your data analaytics.</p>
+</div>
+<div class="date">2022 Sep 29</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="section-spacer"></div>
+</main>
+<footer class="text-sm">
+<div class="flare flare-sm" style="background: #448aff; left: 38%; top: 60%"></div>
+<div class="flare flare-xs" style="background: #0e427e; left: 66%; top: 20%"></div>
+<div class="container-fluid">
+<div class="footer-top text-sm">
+
+<div class="editor">
+<h2>Let’s talk<span class="color-brand">.</span></h2>
+<div class="row align-items-center">
+<div class="col-auto">
+<a class="button sm frame" href="/cdn-cgi/l/email-protection#b1d9d4dddddef1d3d0c2d4dedfd49fc4da">
+<span class="text"><span class="__cf_email__" data-cfemail="325a575e5e5d72505341575d5c571c4759">[email&#160;protected]</span></span>
+<span class="icon"></span>
+</a>
+</div>
+<div class="col">
+<div class="h-line"></div>
+</div>
+</div>
+</div>
+<div class="footer-content">
+<div class="row">
+<div class="col-3 col-sm-12">
+<a href="https://baseone.uk">
+<img width="177" src="https://baseone.uk/wp-content/uploads/2022/08/logo.svg" alt="" class="d-block mb-custom-sm" />
+</a>
+</div>
+</div>
+<div class="row justify-content-between g-custom-sm">
+<div class="col-lg-6">
+<div class="footer-text editor mb-custom-sm"><p>35 New Broad Street, New Broad Street House, <strong>London, EC2M 1NH.</strong></p>
+<div id="gtx-trans">
+<div class="gtx-trans-icon"></div>
+</div>
+</div>
+<div class="row g-2">
+<div class="col-auto">
+<a class="social-button" href="https://www.linkedin.com/company/baseone">
+<img src="https://baseone.uk/wp-content/uploads/2022/08/icon-social3.svg" alt="" />
+</a>
+</div>
+<div class="col-auto">
+<a class="social-button" href="https://twitter.com/baseone_uk">
+<img src="https://baseone.uk/wp-content/uploads/2022/08/icon-social1.svg" alt="" />
+</a>
+</div>
+<div class="col-auto">
+<a class="social-button" href="https://www.instagram.com/baseone.uk/">
+<img src="https://baseone.uk/wp-content/uploads/2022/08/icon-social4.svg" alt="" />
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="row">
+<div class="row"><div id="menu-item-771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-771 col-6 col-sm-4"><a href="https://baseone.uk/our-purpose/" class="footer-link">Our Purpose</a></div>
+<div id="menu-item-770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-770 col-6 col-sm-4"><a href="https://baseone.uk/get-in-touch/" class="footer-link">Get in touch.</a></div>
+<div id="menu-item-774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774 col-6 col-sm-4"><a href="https://baseone.uk/careers/" class="footer-link">Careers</a></div>
+<div id="menu-item-775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775 col-6 col-sm-4"><a href="https://baseone.uk/casestudies/" class="footer-link">Case Studies</a></div>
+<div id="menu-item-777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777 col-6 col-sm-4"><a href="https://baseone.uk/services/" class="footer-link">Services</a></div>
+<div id="menu-item-1997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1997 col-6 col-sm-4"><a href="https://baseone.uk/business-intelligence-development/" class="footer-link">BI Demos</a></div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-container">
+<div class="h-line"></div>
+<div class="footer-bottom text-xs">
+<div class="row align-items-center justify-content-between g-custom-xs flex-wrap">
+<div class="col-auto">
+<div class="row gx-custom-sm">
+<div class="col-auto">
+<a href="https://baseone.uk/privacy-policy/" target="_self">Privacy Policy</a>
+</div>
+<div class="col-auto">
+<a href="https://baseone.uk/terms-of-use/" target="_self">Terms of use</a>
+</div>
+<div class="col-auto">
+<p>2022 © Baseone.</p>
+</div>
+</div>
+</div>
+<div class="col-auto">
+<a class="d-flex align-items-center" href="https://redstone.media/" target="_blank" rel="noreferrer noopener">
+develop by</php> <img src="https://baseone.uk/wp-content/themes/base-one/build/assets/images/redstone.svg" alt="" class="ms-2" />
+</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<div class="cookies-informer">
+<div class="cookies-text"><p>Our site uses cookies to distinguish you from other users of our site. This allows us to provide convenient viewing of our site, and also allows us to improve it. In order to continue working with the site, you need to accept the terms. <a href="https://baseone.uk/privacy-policy/">Cookies policy</a></p>
+</div>
+<div class="cookies-close btn-close"></div>
+<div class="cookies-btn">
+<div class="button frame active close"><span class="text">No thanks</span> <span class="icon"></span></div>
+<div class="button set-cookies close-cookies"><span class="text">Accept cookies</span><span class="icon"></span></div>
+</div>
+</div>
+<div class="popup" id="thank-you">
+<div class="overlay"></div>
+<div class="container-fluid">
+<div class="content">
+<h4>Thank you for contacting us!</h4>
+<p>Your message has been successfully sent. We will contact you very soon.</p>
+</div>
+<a class="close"><img src="https://baseone.uk/wp-content/themes/base-one/build/assets/images/icon-close.svg" alt="" /></a>
+</div>
+</div>
+<link rel='stylesheet' id='wp-style-css' href='https://baseone.uk/wp-content/themes/base-one/style.css?ver=1.1.78' type='text/css' media='all' />
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='https://baseone.uk/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/baseone.uk\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://baseone.uk/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4' id='contact-form-7-js'></script>
+<script type='text/javascript' id='app-js-js-extra'>
+/* <![CDATA[ */
+var ajax = {"url":"https:\/\/baseone.uk\/wp-admin\/admin-ajax.php","nonce":"8547bcc649","banner_settings":{"rotation":"50","amplitude":"0.99","waves":"2","width":"400","background":true,"preload":true},"smoke_mouse_settings":{"density_dissipation":"0.95","velocity_dissipation":"0.9","pressure_dissipation":"0.99","splat_radius":"0.3","pressure_iterations":"20","curl":"0","shading":false,"colorful":false,"transparent":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://baseone.uk/wp-content/themes/base-one/build/app.js?ver=1.1.78' id='app-js-js'></script>
+<script type='text/javascript' src='https://baseone.uk/wp-content/themes/base-one/js/custom.js?ver=1.1.78' id='custom-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcTXrkbAAAAAMZa6WmAUicgeDOfYLRj7EVBSvqJ&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://baseone.uk/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://baseone.uk/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcTXrkbAAAAAMZa6WmAUicgeDOfYLRj7EVBSvqJ","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://baseone.uk/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.6.4' id='wpcf7-recaptcha-js'></script>
+</body>
+</html>
