@@ -1911,6 +1911,7 @@ a:hover {
   font-family: 'Rubik Mono One', sans-serif;
   color: #fff;
   position: fixed;
+  z-index: -10
 }
 
 .navbar--delete-me {
