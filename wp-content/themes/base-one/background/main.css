@@ -2262,7 +2262,7 @@ a:hover {
   -ms-flex: 1;
   flex: 1;
   border-radius: 100vw;
-  background-image: radial-gradient(circle farthest-side at 0% 0%, #fa2566, transparent), radial-gradient(circle farthest-corner at 50% 0%, #f05330, transparent 58%), radial-gradient(circle farthest-side at 100% 0%, #f05240, transparent);
+  background-image: radial-gradient(circle farthest-side at 0% 0%, #000, transparent), radial-gradient(circle farthest-corner at 50% 0%, #fa2566, transparent 58%), radial-gradient(circle farthest-side at 100% 0%, #f05240, transparent);
   -webkit-filter: none;
   filter: none;
 }
