@@ -102,7 +102,7 @@
             <div class="panel-wrapper">
               <div class="blur"></div>
               <div
-                class="panel"
+                class="panel bg-color-1"
                 style="
                   will-change: transform;
                   transform: translate3d(2.8858vw, -0.7325vw, 0px) scale3d(1, 1, 1)
@@ -254,7 +254,7 @@
       <div id="content">
          <div data-scroll-container>
             <main>
-               <section class="align-items-end banner">
+               <section class="align-items-end banner" id="section-anim">
                   
                   <div class="container-fluid">
                      <h1>
@@ -368,7 +368,7 @@
                </div>
                <div class="section-spacer"></div>
                <div id="services">
-                  <section class="section-color page-height" style="--color: rgb(68,138,255); --gradient: rgb(68,138,255)">
+                  <section id="section-anim" class="section-color page-height" style="--color: rgb(68,138,255); --gradient: rgb(68,138,255)">
                      <div class="container-fluid">
                         <div class="row justify-content-between align-items-center g-custom-lg">
                            <div class="service-side col-lg-5 editor">
@@ -407,6 +407,7 @@
                      </div>
                   </section>
                </div>
+
                <div class="section-spacer"></div>
                <section>
                   <div class="flare flare-sm" style="background: linear-gradient(90deg, rgba(255,136,181,1) 0%, rgba(154,141,243,1) 35%, rgba(5,124,230,1) 100%) !important; left: 0; top: 15%"></div>
@@ -508,7 +509,7 @@
                   </div>
                </section>
                <div class="section-spacer"></div>
-               <section>
+               <section id="section-anim">
                   <div class="container-fluid">
                      <div class="row g-custom-lg">
                         <div class="col-12">
@@ -865,6 +866,7 @@
       src="wp-content/themes/base-one/background/script.js"
       type="text/javascript"
     ></script>
+    <script src="wp-content/themes/base-one/background/changeColor.js"></script>
 
     <script>
       if (window.location.hostname === "aurora-gradient.webflow.io") {
