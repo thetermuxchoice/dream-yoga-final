@@ -7061,7 +7061,8 @@ nav {
     top: 0;
     width: 100%;
     height: 100%;
-    background: var(--background-body);
+    background: rgba(16 18 27 / 40%);
+    backdrop-filter: blur(30px);
     overflow: auto;
     -webkit-overflow-scrolling: touch;
     padding: var(--header-height) 0;
