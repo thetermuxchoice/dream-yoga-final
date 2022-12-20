@@ -1,10 +1,10 @@
 let check_one = false
 let check_two = false
 let check_tree = false
+const header = document.querySelector(".header-desktop")
 
 window.addEventListener("scroll", () => {
   const anim = document.querySelectorAll("#section-anim");
-  const bg = document.querySelector(".panel");
   const bgPosOne = anim[0].getBoundingClientRect().top;
   const bgPosTwo = anim[1].getBoundingClientRect().top;
   const bgPosTree = anim[2].getBoundingClientRect().top;
@@ -12,6 +12,7 @@ window.addEventListener("scroll", () => {
     Color.vector = ["#fa2566", "#f05330", "#f00033"]
     if (!check_one) {
       this.init()
+      header.style.background = "#f00033"
       check_one = true
     }
   }
@@ -19,6 +20,7 @@ window.addEventListener("scroll", () => {
     Color.vector = ["#f65128", "#f6a055", "#6fd8f1"]
     if (!check_two) {
       this.init()
+      header.style.background = "#f6a055"
       check_two = true
     }
   }
@@ -26,13 +28,12 @@ window.addEventListener("scroll", () => {
     Color.vector = ["#ff88b5", "#9a8df3", "#057ce6"]
     if (!check_tree) {
       this.init()
+      header.style.background = "#9a8df3"
       check_tree = true
     }
   }
 });
 
-
-"use strict";
 let canvas;
 let c;
 const circleCount = window.innerWidth / 9;
@@ -49,11 +50,11 @@ class Circle {
         this.r_min = r_min;
         this.x = x;
         this.y = y;
-        this.dx = dx;
-        this.dy = dy;
+        this.dx = 0.5;
+        this.dy = 1;
         this.color = color;
         this.draw();
-        this.r = r_min;
+        this.r = 20;
     }
     side() {
         return {

@@ -52,6 +52,10 @@ body {
     gap: 0.5em;
 }
 
+body {
+    background-color: #D9D9D9 !important;
+}
+
 body .is-layout-flow>.alignleft {
     float: left;
     margin-inline-start: 0;
@@ -6363,7 +6367,7 @@ a.partner-entry {
 .casestudy-entry .value {
     font-size: 14rem;
     font-weight: 500;
-    color: #090d13;
+    color: #fff;
     line-height: 1em;
     letter-spacing: -1rem
 }
@@ -6729,7 +6733,7 @@ a.partner-entry {
     font-size: 8rem;
     line-height: .6em;
     font-weight: 500;
-    color: #090d13
+    color: #fff
 }
 
 .image .image-wrapper {
@@ -6832,7 +6836,8 @@ a.partner-entry {
     --height: 64px;
     --padding: calc(var(--height) / 1.8);
     font-size: 18px;
-    line-height: 27px
+    line-height: 27px;
+    border-radius: var(--header-height);
 }
 
 .button.frame {
@@ -8102,4 +8107,59 @@ button.swiper-pagination-bullet {
 
 .swiper-slide-zoomed {
     cursor: move
+}
+
+.bt-ra {
+    border-radius: var(--height) !important;
+    font-size: 1rem !important;
+}
+
+.header-movile {
+    display: none !important;
+}
+
+.header-desktop {
+    position: fixed;
+    width: 100%;
+    padding: 0 23px 0 0;
+    min-height: 100px;
+    top: 0;
+    left: 0;
+    background-color: #FF0032;
+    display: flex;
+    justify-content: space-between;
+    z-index: 10;
+}
+
+ #logo-desktop {
+    display: flex;
+    align-items: center;
+}
+
+.header-desktop--links {
+    gap: 30px;
+}
+
+.header-desktop--links a {
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: #dee2e6;
+}
+
+@media (max-width: 1000px){
+    .header-desktop {
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 30px;
+    }
+}
+
+@media (max-width: 650px){
+    .header-desktop {
+        display: none;
+    }
+
+    .header-movile {
+        display: flex !important;
+    }
 }
